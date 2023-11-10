@@ -5,7 +5,7 @@ module.exports = {
     entry: './src/index.js',
     module: {
         rules: [
-            { test: /\.css$/, use: ['style-loader', 'css-loader'] },
+            { test: /\.(css|scss|sass)$/, use: ['style-loader', 'css-loader', 'sass-loader'] },
             { test: /\.(js|jsx)$/, use: 'babel-loader' }
         ]
     },
