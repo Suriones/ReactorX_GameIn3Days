@@ -1,0 +1,28 @@
+body {
+    background-image: url("./../../Img/background.jpg");
+    background-size: 350px 350px;
+
+    .board {
+        width: 900px;
+        height: 571px;
+        margin: auto;
+        margin-top: 20px;
+        box-shadow: 5px 5px 50px black;
+        border: 3px orange solid;
+        border-top: 8px orange solid;
+    }
+    .score {
+        width: 200px;
+        height: 55px;
+        background-color: black;
+        color: white;
+        position: absolute;
+        left: 55%;
+        top: 5%;
+        opacity: 0.8;
+        font: small-caps bold 24px sans-serif;
+        box-shadow: 3px 3px 20px black;
+        text-align: center;
+        font-size: 42px;
+    }
+}
