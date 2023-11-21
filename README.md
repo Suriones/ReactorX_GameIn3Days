@@ -14,11 +14,11 @@
 Use this link --> https://suriones.github.io/ReactorX_GameIn3Days/
 
 <h1>Description</h1>
-<p>I wrote the project to try creating games on the web. I wanted to try to implement control, procedural generation and improve my knowledge of React with Redux.</p>
+<p>I wrote the project to try creating games on the web. I wanted to try to implement control, procedural generation and improve my knowledge of React and Redux.</p>
 
 <img src="https://github.com/Suriones/ReactorX_GameIn3Days/assets/111291999/e30f773b-24ee-47c0-a093-088c85217059">
 
-<p>The goal of the game is to go through the green square to the end of the level. There are three levels. When falling into lava, the character dies and the page is reloaded. All three levels must be completed in 40 seconds.</p>
+<p>The goal of the game is to get your character to the end of the level as quickly as possible. When falling into lava, the character dies and the page is reloaded. All three levels must be completed in 40 seconds.</p>
 <p>I used procedural generation to create the level map, making each level unique and random.</p>
 
 <p><img src="https://github.com/Suriones/ReactorX_GameIn3Days/assets/111291999/a657cba8-6580-40ef-a0ec-2c0cb2e298f0"></p>
